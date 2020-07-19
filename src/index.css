@@ -11,3 +11,113 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.book-item{
+  flex: 0 0 26%;
+
+  border:1px solid #934b00;
+  color: #bb6b00;
+  margin: 5px;
+  height: 500px;
+}
+
+.book-title a{
+  color: #bb6b00;
+  font-weight: 300 !important;
+}
+
+.book-title a:hover{
+  text-decoration: underline;
+}
+
+.books-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.book-item img{
+  height: 200px;
+}
+
+.book-item button{
+  width: 150px;
+  line-height: 2;
+
+  background: transparent;
+  border: 1px solid #3f3fa8;
+  border-radius: 2px;
+}
+
+.book-item button:hover{
+  background:  #3f3fa8;
+  color: white;
+}
+
+.book-item button:focus{
+  outline: none;
+}
+
+
+/* button */
+.draw-border {
+  box-shadow: inset 0 0 0 2px #58afd1;
+  color: #58afd1;
+  -webkit-transition: color 0.25s 0.0833333333s;
+  transition: color 0.25s 0.0833333333s;
+  position: relative;
+}
+.draw-border::before, .draw-border::after {
+  border: 0 solid transparent;
+  box-sizing: border-box;
+  content: '';
+  pointer-events: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
+}
+.draw-border::before {
+  border-bottom-width: 2px;
+  border-left-width: 2px;
+}
+.draw-border::after {
+  border-top-width: 2px;
+  border-right-width: 2px;
+}
+.draw-border:hover {
+  color: #ffe593;
+}
+.draw-border:hover::before, .draw-border:hover::after {
+  border-color: #ffe593;
+  -webkit-transition: border-color 0s, width 0.25s, height 0.25s;
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
+  height: 100%;
+}
+.draw-border:hover::before {
+  -webkit-transition-delay: 0s, 0s, 0.25s;
+  transition-delay: 0s, 0s, 0.25s;
+}
+.draw-border:hover::after {
+  -webkit-transition-delay: 0s, 0.25s, 0s;
+  transition-delay: 0s, 0.25s, 0s;
+}
+
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1;
+  font: 700 1rem 'Roboto Slab', sans-serif;
+  letter-spacing: 0.05rem;
+}
+.btn:focus {
+  outline: 2px dotted #55d7dc;
+}
+
+
+/* button */
