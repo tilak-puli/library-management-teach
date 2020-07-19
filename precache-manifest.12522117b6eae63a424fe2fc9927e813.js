@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f33531e0c81e8c27ed429fb644017906",
+    "revision": "9a2a3460e32005945cfe494f9a1c287f",
     "url": "/library-management-teach/index.html"
   },
   {
-    "revision": "bedf9319b0e6f026bdfc",
-    "url": "/library-management-teach/static/css/main.200df200.chunk.css"
+    "revision": "b739e713f2b0754de16b",
+    "url": "/library-management-teach/static/css/main.4a99287d.chunk.css"
   },
   {
     "revision": "76de804b12b3e840d4e4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/library-management-teach/static/js/2.35c0457e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bedf9319b0e6f026bdfc",
+    "revision": "b739e713f2b0754de16b",
     "url": "/library-management-teach/static/js/main.7ee78679.chunk.js"
   },
   {
