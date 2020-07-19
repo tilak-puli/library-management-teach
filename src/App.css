@@ -25,7 +25,8 @@
   border:1px solid #934b00;
   color: #bb6b00;
   margin: 10px;
-  height: 500px;
+  padding-bottom:10px ;
+  min-height: fit-content;
 
   transition: transform 0.1s;
   background: aliceblue;
