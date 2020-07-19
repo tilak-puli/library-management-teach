@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/library-management-teach/static/css/main.4a99287d.chunk.css",
+    "main.css": "/library-management-teach/static/css/main.0b97bb96.chunk.css",
     "main.js": "/library-management-teach/static/js/main.7ee78679.chunk.js",
     "main.js.map": "/library-management-teach/static/js/main.7ee78679.chunk.js.map",
     "runtime-main.js": "/library-management-teach/static/js/runtime-main.13994091.js",
@@ -8,15 +8,15 @@
     "static/js/2.35c0457e.chunk.js": "/library-management-teach/static/js/2.35c0457e.chunk.js",
     "static/js/2.35c0457e.chunk.js.map": "/library-management-teach/static/js/2.35c0457e.chunk.js.map",
     "index.html": "/library-management-teach/index.html",
-    "precache-manifest.12522117b6eae63a424fe2fc9927e813.js": "/library-management-teach/precache-manifest.12522117b6eae63a424fe2fc9927e813.js",
+    "precache-manifest.2243b15323b20d287adbf386ce9c4aed.js": "/library-management-teach/precache-manifest.2243b15323b20d287adbf386ce9c4aed.js",
     "service-worker.js": "/library-management-teach/service-worker.js",
-    "static/css/main.4a99287d.chunk.css.map": "/library-management-teach/static/css/main.4a99287d.chunk.css.map",
+    "static/css/main.0b97bb96.chunk.css.map": "/library-management-teach/static/css/main.0b97bb96.chunk.css.map",
     "static/js/2.35c0457e.chunk.js.LICENSE.txt": "/library-management-teach/static/js/2.35c0457e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.13994091.js",
     "static/js/2.35c0457e.chunk.js",
-    "static/css/main.4a99287d.chunk.css",
+    "static/css/main.0b97bb96.chunk.css",
     "static/js/main.7ee78679.chunk.js"
   ]
 }
